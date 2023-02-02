@@ -1,0 +1,22 @@
+Database 2 prokar |
+    1. Sadharon Database
+    2. Relational Database
+
+Sadharon Database : Sudhu matro 1 ta file ba poroshpor somporkohin
+ekadhik file er sahajje je database gothon kora hoy take Sadharon
+database bole. 
+For Example : 1 ta table
+
+Relational Database : Poroshpor somporko jugto ekadhik file er / table
+er sahajje je database gothon kora hoy take Relational Database bole.
+For Example : 1 ta student name er table ar sathe Exam result ar arekta table 
+jar sathe student table ar somporko ache.
+
+Elements of Database :
+  1. Field                       Field = column
+  2. Record                      Record = row
+  3. Value (data)
+
+
+
+
